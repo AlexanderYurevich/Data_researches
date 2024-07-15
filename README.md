@@ -9,4 +9,4 @@ This repository contains researches of datasets on different topics
 ```
 jupyter notebook
 ```
-- In Jupyter find and double click **Baby_names.ipynb** file
+- In Jupyter find and double click files of your interest
